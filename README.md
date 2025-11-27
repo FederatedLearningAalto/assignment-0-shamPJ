@@ -11,13 +11,14 @@ This assignment asks students to implement a function in Python and check it wit
 1. Implement `sum_of_3(a, b, c)` in `assignment.py`.
 
 2. Run the tests locally:
-
+   ```bash
    python unit_tests.py
 
    Make sure all tests pass before you submit.
 
 3. Commit and push your solution to GitHub:
 
+   ```bash
    git add assignment.py
    git commit -m "Implement sum_of_3"
    git push
