@@ -13,6 +13,7 @@ This assignment asks students to implement a function in Python and check it wit
 2. Run the tests locally:
    ```bash
    python unit_tests.py
+   ```
 
    Make sure all tests pass before you submit.
 
@@ -22,6 +23,7 @@ This assignment asks students to implement a function in Python and check it wit
    git add assignment.py
    git commit -m "Implement sum_of_3"
    git push
+   ```
 
    The remote repository is already configured for you when you accept the assignment link in GitHub Classroom.
 
